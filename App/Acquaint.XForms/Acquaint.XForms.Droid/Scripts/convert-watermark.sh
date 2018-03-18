@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+#!/bin/bash
 
 # ./convert_watermark.sh 
 # in the folder with the files you want to convert
